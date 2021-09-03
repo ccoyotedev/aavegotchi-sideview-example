@@ -8,4 +8,5 @@ Bulk of the example is in `src/App.tsx`.
 
 - Clone repo
 - `yarn install` to install all dependencies
+- `yarn start` to run code
 - Ensure you are on the Matic network
